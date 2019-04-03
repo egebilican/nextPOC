@@ -1,11 +1,13 @@
 import Layout from "../components/MyLayout.js";
 import fetch from "isomorphic-unfetch";
 import Head from "next/head";
+import _ from "lodash";
 
 const Post = props => (
   <>
     <Head>
       <title>My page title</title>
+      <meta name="google-site-verification" content="KMNH3Xbrc1zmbQfB19rfKE5DNxmGIpL0vfND7_8JFt8" />
       <meta name="post" content="initial-scale=1.2, width=device-width" key="viewport" />
     </Head>
     <Layout>

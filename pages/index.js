@@ -7,6 +7,7 @@ const Index = props => (
   <>
     <Head>
       <title>My page title</title>
+      <meta name="google-site-verification" content="KMNH3Xbrc1zmbQfB19rfKE5DNxmGIpL0vfND7_8JFt8" />
       <meta name="indexege" content="initial-scale=1.2, width=device-width" key="viewport" />
     </Head>
     <Layout>
